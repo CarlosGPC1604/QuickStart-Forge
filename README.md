@@ -16,7 +16,7 @@ QuickStart Forge admite múltiples tecnologías, entre las que se incluyen:
 
 - **Backend**: Spring Boot, Node.js, Django, etc.
 - **Frontend**: React, Angular, Vue, etc.
-- **Bases de Datos**: MySQL, MongoDB, PostgreSQL, etc.
+- **Bases de Datos**: MySQL, MongoDB, PostgresSQL, etc.
 
 La lista de tecnologías compatibles es fácilmente ampliable a través del archivo de configuración.
 
